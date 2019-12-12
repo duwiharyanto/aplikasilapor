@@ -4,7 +4,7 @@ Intro
 Aplikasi untuk mencatat laporan dari clien terkait permasalahan sistem pelayanan, aplikasi lapor ini dibangun menggunakan **[Bootstrap 4](https://getbootstrap.com)** framework yang dapat menyesuaikan tampilan dengan layar dan menggunakan framerwork codeigniter versi 3.xx.
 
 
-!["Tampilan Dashboard"](https://drive.google.com/file/d/10KdugIa5ISAy-ZsMIrNPlXohzEbvFluu/view?usp=sharing "Dashboard")
+[![dashboard.png](https://a.imge.to/2019/12/12/vzegpO.png)](https://imge.to/i/vzegpO)
 
 
 Sistem yang dibutuhkan 
